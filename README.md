@@ -16,4 +16,4 @@ ln -s ~/usr/src/upload-file ~/.roswell/local-projects/
 Increase the upload size until you se '400 Bad Request' and tell me how if you got the 400 response or not. 
 I'd also like to know which platform you are running on, and if you have a fast or slow computer.
 
-Point your browser to http://localhost:5000/
+Point your browser to <http://localhost:5000/>
