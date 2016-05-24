@@ -1,4 +1,5 @@
 
+Ref this bug: https://github.com/fukamachi/woo/issues/47
 Please check if this works for you
 
 ``` sh
