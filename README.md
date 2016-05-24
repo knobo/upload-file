@@ -6,6 +6,7 @@ Please check if this works for you
 cd ~/usr/src
 git clone https://github.com/knobo/upload-file.git
 ln -s ~/usr/src/upload-file ~/.roswell/local-projects/
+apt-get install libev4
 ```
 
 ``` cl
